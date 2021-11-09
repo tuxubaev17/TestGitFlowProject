@@ -12,9 +12,11 @@ final class SecondViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
+        
         let subView = UIView()
         subView.backgroundColor = .red
         subView.frame = view.bounds
         view.addSubview(subView)
+
     }
 }
