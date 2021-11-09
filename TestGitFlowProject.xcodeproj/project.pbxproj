@@ -14,6 +14,7 @@
 		50166A85273A584500C121E6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 50166A84273A584500C121E6 /* Assets.xcassets */; };
 		50166A88273A584500C121E6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 50166A86273A584500C121E6 /* LaunchScreen.storyboard */; };
 		50166A92273A6EE400C121E6 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50166A91273A6EE400C121E6 /* FirstViewController.swift */; };
+		50AF14E4273A72D300C5E987 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50AF14E3273A72D300C5E987 /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		50166A87273A584500C121E6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		50166A89273A584500C121E6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		50166A91273A6EE400C121E6 /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
+		50AF14E3273A72D300C5E987 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				50166A7D273A584300C121E6 /* SceneDelegate.swift */,
 				50166A7F273A584300C121E6 /* ViewController.swift */,
 				50166A91273A6EE400C121E6 /* FirstViewController.swift */,
+				50AF14E3273A72D300C5E987 /* SecondViewController.swift */,
 				50166A81273A584300C121E6 /* Main.storyboard */,
 				50166A84273A584500C121E6 /* Assets.xcassets */,
 				50166A86273A584500C121E6 /* LaunchScreen.storyboard */,
@@ -144,6 +147,7 @@
 				50166A80273A584300C121E6 /* ViewController.swift in Sources */,
 				50166A7C273A584300C121E6 /* AppDelegate.swift in Sources */,
 				50166A7E273A584300C121E6 /* SceneDelegate.swift in Sources */,
+				50AF14E4273A72D300C5E987 /* SecondViewController.swift in Sources */,
 				50166A92273A6EE400C121E6 /* FirstViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
